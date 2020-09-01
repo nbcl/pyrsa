@@ -7,7 +7,7 @@ Pure-Python RSA public-key cryptosystem implementation. Algorithm generates publ
 
 <p align="center">
   <img width="460" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CarmichaelLambda.svg/660px-CarmichaelLambda.svg.png">
-  <p style="text-align: center">Image: Carmichael function. A Carmichael prime-variation is used to generate λ(n).</p>
+  <p align="center">Image: Carmichael function. A Carmichael prime-variation is used to generate λ(n).</p>
 </p>
 
 # Changelog
