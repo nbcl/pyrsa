@@ -22,7 +22,8 @@ The format is based on [KAC](https://keepachangelog.com/en/1.0.0/), and this pro
 
 ### Added
 
-- README.md Changelog & Getting Started
+- Carmichael-variation structure
+- Changelog & Getting Started
 
 ## [1.0.0] - 2020-08-31
 
