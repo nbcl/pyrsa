@@ -47,4 +47,4 @@ The published script comes with a user-friendly example by running main.py.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. pyRSA is under development.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. pyRSA is under development.
