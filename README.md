@@ -3,7 +3,7 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://mit-license.org/)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-Pure-Python RSA public-key cryptosystem implementation. Algorithm generates public and private keys using feeded 1,024 bit prime integers, and can encrypt and decrypt given messages. Half of the public and the complete private key are generated partially from enviromental noise using [os-specific functions](https://github.com/python/cpython/blob/master/Lib/os.py#L48-L89), while the p, q, λ(n) parameters are currently deterministic and under development.
+pyRSA is a pure-Python RSA public-key cryptosystem implementation. Algorithm generates public and private keys using feeded 1,024 bit prime integers, and can encrypt and decrypt given messages. Half of the public and the complete private key are generated partially from enviromental noise using [os-specific functions](https://github.com/python/cpython/blob/master/Lib/os.py#L48-L89), while the p, q, λ(n) parameters are currently deterministic and under development.
 
 <p align="center">
   <img width="460" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CarmichaelLambda.svg/660px-CarmichaelLambda.svg.png">
